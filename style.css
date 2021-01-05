@@ -47,11 +47,11 @@ h2{
 }
 
 .half_part img{
-    width: 84%;
+    width: 93%;
 }
 
 section{
-    height: 500px;
+    height: 550px;
    
 }
 
@@ -61,4 +61,42 @@ section{
 .bottom_part{
  background-color: plum;
 }
+
+.project_font{
+
+    color: rgb(243, 102, 102);
+    
+}
+.project_font1{
+
+    color: rgb(94, 10, 146);
+}
+.latest_work h2{
+    text-align: center;
+    
+}
+
+.latest_work{
+    background-color: rgb(243, 241, 241);
+    padding-top: 1px;
+}
+
+.work_area{
+    
+    border-radius: 15px;
+    background-color: white;
+    width: 25%;
+    height: 75%;
+
+}
+
+.color_text{
+    color:grey;
+}
+
+.image_edit{
+
+    padding-top: 30px;
+ 
+   }
 
