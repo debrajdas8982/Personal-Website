@@ -52,7 +52,6 @@ h2{
 
 section{
     height: 550px;
-   
 }
 
 .top_part{
@@ -65,7 +64,6 @@ section{
 .project_font{
 
     color: rgb(243, 102, 102);
-    
 }
 .project_font1{
 
@@ -87,7 +85,6 @@ section{
     background-color: white;
     width: 25%;
     height: 75%;
-
 }
 
 .color_text{
@@ -97,6 +94,54 @@ section{
 .image_edit{
 
     padding-top: 30px;
- 
-   }
+}
+
+
+.button_link1{
+    text-decoration: none;
+        
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    margin-top: 180px;
+    margin-left: 950px;
+    padding: 20px 20px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+}
+
+.last_text{
+   
+ height: 400px;
+ position: relative;
+ display: block;
+ background-image: url(images/image_6.png);
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: 60%;
+   
+}
+
+.work{
+    position: absolute;
+    margin-left: 200px;
+    padding: 150px;
+    color: white;
+}
+
+.bottom_logo{
+    text-align: center;
+}
+.stay{
+    color: gray;
+    font-weight: 600;
+}
+.email_id{
+    font-weight: bold;
+    color: rgb(114, 54, 156);
+    font-size: 30px;
+}
+
+.image_group{
+    text-align: center;
+}
 
